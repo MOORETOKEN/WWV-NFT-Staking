@@ -1,1 +1,11 @@
 ## WWV-NFT-Staking
+- RANK /DAILY PRIZE -> 
+    - 1500-2000 / 1 WWV, 
+    - 1000-1499 / 1.5$WWV, 
+    - 600-999 / 2WWV, 
+    - 300-599 / 2.5 WWV, 
+    - 200-299 / 3WWV, 
+    - 51-199 / 4 WWV, 
+    - 1-50 / 5 WWV
+  - If your NFT is rarer you will get more staking reward.
+  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
