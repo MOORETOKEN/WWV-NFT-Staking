@@ -6,6 +6,6 @@
     - 300-599 / 2.5 WWV, 
     - 200-299 / 3WWV, 
     - 51-199 / 4 WWV, 
-    - 1-50 / 5 WWV
+    - 1-50 / 52 WWV
   - If your NFT is rarer you will get more staking reward.
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
