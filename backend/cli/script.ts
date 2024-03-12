@@ -17,9 +17,9 @@ import { GlobalPool, UserPool } from './types';
 const USER_POOL_SIZE = 2464;     // 8 + 41056
 const GLOBAL_AUTHORITY_SEED = "global-authority";
 
-const ADMIN_PUBKEY = new PublicKey("Fs8R7R6dP3B7mAJ6QmWZbomBRuTbiJyiR4QYjoxhLdPu");
-const REWARD_TOKEN_MINT = new PublicKey("8EoML7gaBJsgJtepm25wq3GuUCqLYHBoqd3HP1JxtyBx");
-const PROGRAM_ID = "F7cBo37zfFK5kLbTZxfejozgSiTb6J3EfgNWiu9HRPzD";
+const ADMIN_PUBKEY = new PublicKey("4Nb8q8kWDJhApURK7jYbvHJvx1njRH2seZibMwf9tTv4");
+const REWARD_TOKEN_MINT = new PublicKey("H3rmqbVz8NTCkGABeue3yc9PgioL2i1RPrQM45itdKMu");
+const PROGRAM_ID = "2RbwYVj8gmYf8TRNukd34fGJgT7X4X4K3t6gLGwJkNQD";
 
 anchor.setProvider(anchor.Provider.local(web3.clusterApiUrl("devnet")));
 const solConnection = anchor.getProvider().connection;
