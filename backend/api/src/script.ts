@@ -9,10 +9,10 @@ import { UserPool } from './types';
 
 const GLOBAL_AUTHORITY_SEED = "global-authority";
 
-const PROGRAM_ID = "F7cBo37zfFK5kLbTZxfejozgSiTb6J3EfgNWiu9HRPzD";
+const PROGRAM_ID = "2RbwYVj8gmYf8TRNukd34fGJgT7X4X4K3t6gLGwJkNQD";
 
-// anchor.setProvider(anchor.Provider.local(web3.clusterApiUrl("mainnet-beta")));
-anchor.setProvider(anchor.Provider.local(web3.clusterApiUrl("devnet")));
+anchor.setProvider(anchor.Provider.local(web3.clusterApiUrl("mainnet-beta")));
+//anchor.setProvider(anchor.Provider.local(web3.clusterApiUrl("devnet")));
 let program: Program = null;
 
 // Configure the client to use the local cluster.
